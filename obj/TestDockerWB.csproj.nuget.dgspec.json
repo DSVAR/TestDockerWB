@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\пробы\\test\\TestDockerWB\\TestDockerWB\\TestDockerWB.csproj": {}
+    "D:\\пробы\\test\\TestDockerWB\\TestDockerWB.csproj": {}
   },
   "projects": {
-    "D:\\пробы\\test\\TestDockerWB\\TestDockerWB\\TestDockerWB.csproj": {
+    "D:\\пробы\\test\\TestDockerWB\\TestDockerWB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\пробы\\test\\TestDockerWB\\TestDockerWB\\TestDockerWB.csproj",
+        "projectUniqueName": "D:\\пробы\\test\\TestDockerWB\\TestDockerWB.csproj",
         "projectName": "TestDockerWB",
-        "projectPath": "D:\\пробы\\test\\TestDockerWB\\TestDockerWB\\TestDockerWB.csproj",
+        "projectPath": "D:\\пробы\\test\\TestDockerWB\\TestDockerWB.csproj",
         "packagesPath": "C:\\Users\\Davar\\.nuget\\packages\\",
-        "outputPath": "D:\\пробы\\test\\TestDockerWB\\TestDockerWB\\obj\\",
+        "outputPath": "D:\\пробы\\test\\TestDockerWB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dIf3VusAiMyuHYf6QuOo5zAbtCKWkrXw1sG7QhxlxzSM6XsmbUPMJ1Qlz9lTrTalq2bN7scosJbxkR/gjnz05A==",
+  "dgSpecHash": "eh2w0ExxsJIMy4et5swkrNe2o4OMhGM4NyP3W0IcIGs6AXg+y68mB5z/D+aLisCDifyUyD6fbR7nvMiN8Q+7Tg==",
   "success": true,
-  "projectFilePath": "D:\\пробы\\test\\TestDockerWB\\TestDockerWB\\TestDockerWB.csproj",
+  "projectFilePath": "D:\\пробы\\test\\TestDockerWB\\TestDockerWB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.6\\microsoft.aspnetcore.authorization.8.0.6.nupkg.sha512",
     "C:\\Users\\Davar\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.6\\microsoft.aspnetcore.components.8.0.6.nupkg.sha512",

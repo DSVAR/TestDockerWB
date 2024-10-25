@@ -13,39 +13,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = TestDockerWB
 build_property.RootNamespace = TestDockerWB
-build_property.ProjectDir = D:\пробы\test\TestDockerWB\TestDockerWB\
+build_property.ProjectDir = D:\пробы\test\TestDockerWB\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\пробы\test\TestDockerWB\TestDockerWB
+build_property.MSBuildProjectDirectory = D:\пробы\test\TestDockerWB
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/пробы/test/TestDockerWB/TestDockerWB/App.razor]
+[D:/пробы/test/TestDockerWB/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/пробы/test/TestDockerWB/TestDockerWB/Pages/Counter.razor]
+[D:/пробы/test/TestDockerWB/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/пробы/test/TestDockerWB/TestDockerWB/Pages/Home.razor]
+[D:/пробы/test/TestDockerWB/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/пробы/test/TestDockerWB/TestDockerWB/Pages/Weather.razor]
+[D:/пробы/test/TestDockerWB/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/пробы/test/TestDockerWB/TestDockerWB/_Imports.razor]
+[D:/пробы/test/TestDockerWB/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/пробы/test/TestDockerWB/TestDockerWB/Layout/MainLayout.razor]
+[D:/пробы/test/TestDockerWB/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-otgdot6a7w
 
-[D:/пробы/test/TestDockerWB/TestDockerWB/Layout/NavMenu.razor]
+[D:/пробы/test/TestDockerWB/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-4ngjacife4
