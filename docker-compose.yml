@@ -1,0 +1,9 @@
+﻿services:
+  testdockerwb:
+    image: testdockerwb
+    build:
+      context: .
+      dockerfile: Dockerfile
+      
+    ports:
+      - "5085:8080"  # Пробрасываем порт 80 контейнера на порт 8080 хоста
